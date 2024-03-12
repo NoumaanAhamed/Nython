@@ -1,7 +1,8 @@
 # Nython
 
 Not Only Python. Python with Curly Braces instead of indentation, Basically Javascript lol
-Nython is a Python preprosessor which translates curly brackets into indentation.
+
+Nython is a Python preprocessor which translates curly brackets into indentation.
 
 ## Setup
 
